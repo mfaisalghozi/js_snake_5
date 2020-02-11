@@ -89,6 +89,8 @@ function draw() {
         snake.pop();
     }
 
+
+
     //DIRECTION
     if (d == "LEFT") snakeX -= box;
     if (d == "UP") snakeY -= box;
